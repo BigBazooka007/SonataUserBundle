@@ -25,7 +25,7 @@
         "sonata-project/doctrine-extensions": "^1.0",
         "sonata-project/easy-extends-bundle": "^2.1",
         "symfony/console": "^3.0",
-        "symfony/form": "^3.03",
+        "symfony/form": "~2.8|~3.0",
         "symfony/http-foundation": "^3.0",
         "symfony/security": "^3.0"
     },
